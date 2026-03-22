@@ -33,7 +33,7 @@ const Career = () => {
               <h3>Active</h3>
             </div>
             <p>
-              AWS SysOps Administrator, Gen AI, AZ-900, AZ-104, Google Cloud Engineer.
+              AWS SysOps Administrator, Gen AI, AZ-900, AZ-104, SC-300, Google Cloud Engineer.
             </p>
           </div>
         </div>
