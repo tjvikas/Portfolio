@@ -175,11 +175,11 @@ const TechStack = () => {
         </div>
         <div>
           <h3 style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>Cloud Platforms</h3>
-          <p style={{fontSize: '1rem', opacity: 0.8}}>Microsoft Azure (VMs, Blob Storage, Web Apps), GCP, AWS</p>
+          <p style={{fontSize: '1rem', opacity: 0.8}}>Microsoft Azure (Blob Storage, Entra ID, VMs, Web Apps), GCP, AWS</p>
         </div>
         <div>
           <h3 style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>DevOps / CI/CD</h3>
-          <p style={{fontSize: '1rem', opacity: 0.8}}>Azure DevOps, Docker, Kubernetes, Jenkins, Git</p>
+          <p style={{fontSize: '1rem', opacity: 0.8}}>Azure DevOps, Antigravity, Docker, Github, Jenkins, Kubernetes, Vercel</p>
         </div>
         <div>
           <h3 style={{fontSize: '1.5rem', marginBottom: '0.5rem'}}>Workflow & Automation</h3>
